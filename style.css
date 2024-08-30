@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Nerko+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap');
-
 * {
     margin: 0;
     padding: 0;
@@ -26,6 +25,7 @@ nav {
     display: flex;
     float: right;
     padding-top: 5px;
+    
 }
 
 
@@ -69,8 +69,4 @@ ul li a {
 ul li a:hover {
 padding: 10px;
     background-color: aqua;
-}
-
-.gambar p {
-    font-size: 200px;
 }
